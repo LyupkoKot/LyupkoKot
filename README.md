@@ -3,7 +3,11 @@
 Proficient Software Engineer specializing in front-end development. Demonstrated skills in developing SPA, SSR, and reusable components across varied technology stacks. Committed to leveraging new tools and delivering superior user interfaces.
 👉👈<be> 
 
-
+<details>
+<summary>
+  More stuff about me
+</summary>
+  
 ## My skills 🍳
 
 - JavaScript
